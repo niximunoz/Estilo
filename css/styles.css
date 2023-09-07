@@ -1,0 +1,27 @@
+h1,h2,h3{
+    font-family: cursive;
+    margin: 10px;
+    padding: 10px;
+
+}
+#proyects{
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+}
+#contact{
+    background-color:mediumturquoise;
+    text-decoration: underline;
+    color: rebeccapurple;
+    text-align: right;
+    font-weight: lighter;
+}
+#cloud{
+    background-color: black;
+    color: aqua;
+}
+#my{
+    color: white;
+}
